@@ -1,0 +1,50 @@
+img
+{
+    width:160px;
+}
+h1
+{
+    border: dotted #b55b8f 15px;
+    padding: 15px;
+    margin: 12px;
+    background-color: #f0e8e1;
+}
+.first
+{
+background-color:#c48bac;
+}
+body
+{
+  background-color: #f0e8e1;  
+}
+.quotes
+{
+    background-color:#c48bac;
+}
+.outfits
+{
+    background-color:#c48bac;
+}
+.size
+{
+width:160px;
+    height: 250px;
+}
+img
+{
+border: solid white 6px;
+    padding: 4px;
+    margin: 2px;
+}
+ul {
+font-family: 'Rajdhani', sans-serif;
+}
+h1 {
+font-family: 'Alfa Slab One', cursive;
+}
+h2 {
+font-family: 'Alfa Slab One', cursive;
+}
+h4 {
+font-family: 'Alfa Slab One', cursive;
+}
